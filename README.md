@@ -7,8 +7,8 @@ My name's Leonardo, I'm a computer engineering student. Passionate about softwar
 
 ### Cover Letter
 I use to define myself as a proactive person and well-humored. I stand out at the learning process and at the ability
-to keep calm during stressful and tough situations. I'm a computer engineering student, I have basic knowledge about
-the program's languages such as Python, Java, and Dart-Flutter. However, even though I'm a person with ease with exact science,
+to keep calm during stressful and tough situations. I have basic knowledge about the program's languages such as
+Python, Java, and Dart-Flutter. However, even though I'm a person with ease with exact science,
 I have no difficulty dealing with activities related to other knowledge areas. 
 
 ### How to reach me: 
