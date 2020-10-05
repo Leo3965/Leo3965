@@ -20,6 +20,8 @@ I have no difficulty dealing with activities related to other knowledge areas.
 :postbox: leonardo.eng3965@gmail.com
 
 💬 https://www.facebook.com/leo3965
+
+:video_game: https://steamcommunity.com/id/leonardo3965/
 <!--
 **Leo3965/Leo3965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
