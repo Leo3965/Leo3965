@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name's Leonardo, I'm a computer engineering student. Passionate about software development.
 
-⚡ I’m currently looking for an intern. 
+<!--
+**⚡ I’m currently looking for an intern. 
 
 :notebook_with_decorative_cover: I’m currently learning : Java, Python, Dark
 
