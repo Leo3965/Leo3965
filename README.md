@@ -4,7 +4,7 @@ My name's Leonardo, I'm a computer engineering student. Passionate about softwar
 <!--
 **⚡ I’m currently looking for an intern. --> 
 
-:notebook_with_decorative_cover: I’m currently learning : Java, Python, Dark
+:notebook_with_decorative_cover: I’m currently learning : Java, Python, C#
 
 ### Cover Letter
 I use to define myself as a proactive person and well-humored. I stand out at the learning process and at the ability
