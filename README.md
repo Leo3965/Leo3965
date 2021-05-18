@@ -4,6 +4,7 @@ My name's Leonardo, I'm a computer engineering student. Passionate about softwar
 <!--
 **⚡ I’m currently looking for an intern. --> 
 📚 Skills: C#, Java, SQL (Oracle/MySQL)
+
 :notebook_with_decorative_cover: I’m currently learning : Python, Javascript
 
 ### Cover Letter
