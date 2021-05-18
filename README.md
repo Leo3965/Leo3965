@@ -7,11 +7,8 @@ My name's Leonardo, I'm a computer engineering student. Passionate about softwar
 
 :notebook_with_decorative_cover: I’m currently learning : Python, Javascript
 
-### Cover Letter
-I use to define myself as a proactive person and well-humored. I stand out at the learning process and at the ability
-to keep calm during stressful and tough situations. I have basic knowledge about the program's languages such as
-Python, Java, and Dart-Flutter. However, even though I'm a person with ease with exact science,
-I have no difficulty dealing with activities related to other knowledge areas. 
+### A bit about myself
+When I was young I enjoyed solving math exercises, so when I started programming it was like love at first sight. Programming for me a hobby, work, a way to improve how we interact with the world and ourselves.
 
 ### How to reach me: 
 
@@ -24,17 +21,3 @@ I have no difficulty dealing with activities related to other knowledge areas.
 💬 https://www.facebook.com/leo3965
 
 :video_game: https://steamcommunity.com/id/leonardo3965/
-<!--
-**Leo3965/Leo3965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
