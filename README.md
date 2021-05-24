@@ -8,7 +8,7 @@ My name's Leonardo, I'm a computer engineering student. Passionate about softwar
 :notebook_with_decorative_cover: I’m currently learning : Python, Javascript
 
 ### A bit about myself
-When I was young I enjoyed solving math exercises, so when I started programming it was like love at first sight. Programming for me a hobby, work, a way to improve how we interact with the world and ourselves.
+When I was young I enjoyed solving math exercises, so when I started programming it was like love at first sight. Programming for me is a hobby, work, a way to improve how we interact with the world and ourselves.
 
 ### How to reach me: 
 
