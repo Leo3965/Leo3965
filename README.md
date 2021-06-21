@@ -17,6 +17,7 @@ When I was young I enjoyed solving math exercises, so when I started programming
 
 <p align="center">
  <div align="center">
+<em>
 <a href="https://github.com/Leo3965" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"    alt="Git" height="30" style="vertical-align:top; margin:2px"> </a>
 
 <a href="https://www.linkedin.com/in/leonardo3965/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"      alt="Linkedin" height="30" style="vertical-align:top; margin:2px"></a>
@@ -28,7 +29,8 @@ When I was young I enjoyed solving math exercises, so when I started programming
 <a href="https://www.facebook.com/leo3965"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook" height="30" style="vertical-align:top; margin:2px"></a>
  
  <a href="https://steamcommunity.com/id/leonardo3965/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" alt="Steam" height="30" style="vertical-align:top; margin:2px"></a>
-  
+
+</em> 
 </div> 
 </p>
 
