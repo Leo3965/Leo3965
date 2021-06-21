@@ -35,3 +35,8 @@ When I was young I enjoyed solving math exercises, so when I started programming
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Leo3965.Leo3965)
+[![Github](https://img.shields.io/github/followers/Leo3965?label=Follow&style=social)](https://github.com/Leo3965)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
