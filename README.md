@@ -39,6 +39,7 @@ When I was young I enjoyed solving math exercises, so when I started programming
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First Post](https://dev.to/leo3965/first-post-e7)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo3965&show_icons=true&theme=tokyonight)
