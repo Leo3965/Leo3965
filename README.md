@@ -40,3 +40,6 @@ When I was young I enjoyed solving math exercises, so when I started programming
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo3965&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo3965&theme=tokyonight)
