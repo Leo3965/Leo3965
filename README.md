@@ -1,7 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Leo3965.Leo3965)
 [![Github](https://img.shields.io/github/followers/Leo3965?label=Follow&style=social)](https://github.com/Leo3965)
 
-# Hi there 👋
+<h1> Hi there 👋 </h1>
 My name's Leonardo, I'm a computer engineering student. Passionate about software development.
 
 📚 Skills: C#, Java, SQL (Oracle/MySQL)
