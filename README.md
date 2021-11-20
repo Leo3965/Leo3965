@@ -4,8 +4,6 @@
 ### Hi there 👋
 My name's Leonardo, I'm a computer engineering student. Passionate about software development.
 
-<!--
-**⚡ I’m currently looking for an intern. --> 
 📚 Skills: C#, Java, SQL (Oracle/MySQL)
 
 :notebook_with_decorative_cover: I’m currently learning : Python, Javascript
@@ -37,6 +35,5 @@ When I was young I enjoyed solving math exercises, so when I started programming
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a></code><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></a></code></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo3965&show_icons=true&theme=tokyonight)
+<p align="center"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo3965&show_icons=true&theme=tokyonight) </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo3965&theme=tokyonight)
