@@ -8,11 +8,11 @@ My name's Leonardo, I'm a computer engineering student. Passionate about softwar
 
 :notebook_with_decorative_cover: I’m currently learning : Python, Javascript
 
-### A bit about myself
+## A bit about myself
 When I was young I enjoyed solving math exercises, so when I started programming it was like love at first sight. Programming for me is a hobby, work, a way to improve how we interact with the world and ourselves.
 
 
-### ✉️ Find me on:
+## ✉️ Find me on:
 
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=5511945713640&text=Ol%C3%A1,%20te%20achei%20pelo%20GitHub" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" alt="WhatsApp" height="20" style="vertical-align:top; margin:10px"> </a>
@@ -27,7 +27,7 @@ When I was young I enjoyed solving math exercises, so when I started programming
 <br />
 
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 
 <p align="center"><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a></code>
