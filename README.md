@@ -4,7 +4,7 @@
 <h1 align="center" dir="auto"> Hi there 👋 </h1>
 My name's Leonardo, I'm a computer engineering student. Passionate about software development.
 
-📚 Skills: C#, Java, SQL (Oracle/MySQL)
+📚 Skills: C#, Java, SQL, NoSQL
 
 :notebook_with_decorative_cover: I’m currently learning : Python, Javascript
 
