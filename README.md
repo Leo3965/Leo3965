@@ -6,7 +6,7 @@ My name's Leonardo, I'm a computer engineering student. Passionate about softwar
 
 📚 Skills: C#, Java, SQL, NoSQL,  DevOps
 
-:notebook_with_decorative_cover: I’m currently learning : Python, Javascript
+:notebook_with_decorative_cover: I’m currently learning : Python, Javascript, GoLang
 
 ## A bit about myself
 When I was young I enjoyed solving math exercises, so when I started programming it was like love at first sight. Programming for me is a hobby, work, a way to improve how we interact with the world and ourselves.
