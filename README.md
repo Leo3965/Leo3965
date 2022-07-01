@@ -15,84 +15,13 @@ When I was young I enjoyed solving math exercises, so when I started programming
 ## ✉️ Find me on:
 
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=5511945713640&text=Ol%C3%A1,%20te%20achei%20pelo%20GitHub" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" alt="WhatsApp" height="20" style="vertical-align:top; margin:10px"> </a>
-<a href="https://github.com/Leo3965" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"    alt="Git" height="20" style="vertical-align:top; margin:10px"> </a>
-<a href="https://www.linkedin.com/in/leonardo3965/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"      alt="Linkedin" height="20" style="vertical-align:top; margin:10px"></a>
-<a href="mailto:leonardo.eng3965@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="20" style="vertical-align:top;     margin:10px"></a>
-<a href="https://www.instagram.com/leonardo.freiitas/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram" height="20" style="vertical-align:top; margin:10px"></a>
-<a href="https://www.facebook.com/leo3965"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook" height="20" style="vertical-align:top; margin:10px"></a>
- <a href="https://steamcommunity.com/id/leonardo3965/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" alt="Steam" height="20" style="vertical-align:top; margin:10px"></a>
+<a href="https://api.whatsapp.com/send?phone=5511945713640&text=Ol%C3%A1,%20te%20achei%20pelo%20GitHub" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" alt="WhatsApp" height="30" style="vertical-align:top; margin:10px"> </a>
+<a href="https://github.com/Leo3965" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"    alt="Git" height="30" style="vertical-align:top; margin:10px"> </a>
+<a href="https://www.linkedin.com/in/leonardo3965/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"      alt="Linkedin" height="30" style="vertical-align:top; margin:10px"></a>
+<a href="mailto:leonardo.eng3965@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" style="vertical-align:top;     margin:10px"></a>
+<a href="https://www.instagram.com/leonardo.freiitas/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram" height="30" style="vertical-align:top; margin:10px"></a>
+<a href="https://www.facebook.com/leo3965"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Facebook" height="30" style="vertical-align:top; margin:10px"></a>
+ <a href="https://steamcommunity.com/id/leonardo3965/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" alt="Steam" height="30" style="vertical-align:top; margin:10px"></a>
 </p>
 
 <br />
-
-
-## 🧰 Languages and Tools:
-
-<p align="center">
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width:100%;">
-        </a>
-    </code>
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
-        </a>
-    </code>
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
-        </a>
-    </code>
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
-        </a>
-    </code>
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width:100%;">
-        </a>
-    </code>
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;">
-        </a>
-    </code>
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" style="max-width:100%;">
-        </a>
-    </code>
-    <!-- <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" style="max-width:100%;">
-        </a>
-    </code> -->
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="max-width:100%;">
-        </a>
-    </code>
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width:100%;">
-        </a>
-    </code>
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;">
-        </a>
-    </code>
-    <!--<code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracledb/oracledb.png" style="max-width:100%;">
-        </a>
-    </code> -->
-    <code>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Leo3965">
-            <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;">
-        </a>
-    </code>
-</p>
