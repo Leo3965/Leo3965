@@ -2,11 +2,11 @@
 [![Github](https://img.shields.io/github/followers/Leo3965?label=Follow&style=social)](https://github.com/Leo3965)
 
 <h1 align="center" dir="auto"> Hi there 👋 </h1>
-My name's Leonardo, I'm a computer engineering student. Passionate about software development.
+I am Leonardo Oliveira, and I am passionate about software development. Graduated from São Judas University with a degree in Computer Engineering in 2023.
 
-📚 Skills: C#, Java, SQL, NoSQL,  DevOps
+📚 Skills: Java, Go
 
-:notebook_with_decorative_cover: I’m currently learning : Python, Javascript, GoLang
+:notebook_with_decorative_cover: I am continuously studying software architecture, data structures, design patterns, and integrations including messaging, webhooks, REST, and cloud technologies in Java and Golang.
 
 ## A bit about myself
 When I was young I enjoyed solving math exercises, so when I started programming it was like love at first sight. Programming for me is a hobby, work, a way to improve how we interact with the world and ourselves.
