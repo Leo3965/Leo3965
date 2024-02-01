@@ -3,7 +3,7 @@
 
 <h1 align="center" dir="auto"> Hi there 👋 </h1>
 I am Leonardo Oliveira, and I am passionate about software development. Graduated from São Judas University with a degree in Computer Engineering in 2023.
-
+<br/>
 📚 Skills: Java, Go
 
 :notebook_with_decorative_cover: I am continuously studying software architecture, data structures, design patterns, and integrations including messaging, webhooks, REST, and cloud technologies in Java and Golang.
