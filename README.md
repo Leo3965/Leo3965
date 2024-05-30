@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/Leo3965?label=Follow&style=social)](https://github.com/Leo3965)
 
 <h1 align="center" dir="auto"> Hi there 👋 </h1>
-I am Leonardo Oliveira, and I am passionate about software development. Graduated from São Judas University with a degree in Computer Engineering in 2023.
+I am Leonardo O. Freitas, and I am passionate about software development. Graduated from São Judas University with a degree in Computer Engineering in 2023.
 
 
 📚 Skills: Java, Go
